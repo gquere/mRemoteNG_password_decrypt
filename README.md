@@ -2,7 +2,8 @@ Decrypt mRemoteNG passwords
 ===========================
 
 Decrypt mRemoteNG configuration files, old and new format.
-More info [here](https://errno.fr/mRemoteNG_decrypt.md).
+
+More info [here](https://www.errno.fr/mRemoteNG).
 
 Usage
 -----
